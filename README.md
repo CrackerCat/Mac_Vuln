@@ -1,1 +1,1 @@
-# Papers and Sliders of MacOS/IOS Vulnerabilities and Exploitations.
+# Papers and Slides of MacOS/IOS Vulnerabilities and Exploitations.
